@@ -6,3 +6,21 @@ Namelist has names of bots ( normally accounts made within a short period of tim
 malicious users and or follow bots. ) All accounts submitted will be added in after review.
 
 All Namelists/false-positives are [0-9 A-Z] format
+
+
+
+All false-positives are removed from namelist.txt
+All false-positives found are moved onto this list
+
+Need a faster way to do all the bans and unbans? I recommend my friends tool
+https://github.com/pixelsuchter/bantool-2
+
+I also voting on this for moderation tools for api calls for bans/unbans to the chatroom
+https://twitch.uservoice.com/forums/310213-developers/suggestions/43986132-extend-api-to-be-able-to-ban-unban-up-to-100-id-s
+
+Twitter Post : https://twitter.com/LinoYeen/status/1435756447501991941?s=20
+
+Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
+
+Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
+
