@@ -19,8 +19,9 @@ I also voting on this for moderation tools for api calls for bans/unbans to the 
 https://twitch.uservoice.com/forums/310213-developers/suggestions/43986132-extend-api-to-be-able-to-ban-unban-up-to-100-id-s
 
 Twitter Post : https://twitter.com/LinoYeen/status/1435756447501991941?s=20
+if you wanna spread it around
 
 Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
 
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
-
+PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
