@@ -7,13 +7,29 @@ malicious users and or follow bots. ) All accounts submitted will be added in af
 
 All Namelists/false-positives are [0-9 A-Z] format
 
-
+Accounts that are banned from Twitch completely will be removed from the list so it shortens it.
 
 All false-positives are removed from namelist.txt
 All false-positives found are moved onto this list
 
+
 Need a faster way to do all the bans and unbans? I recommend my friends tool
 https://github.com/pixelsuchter/bantool-2
+
+My settings for this tool ^
+
+{
+  "Ban": true,
+  "Block": false,
+  "Chunk size": 10000,
+  "Firefox_profile": "8ztl0cuq.BanTool",
+  "Greeting Emote": "",
+  "Number_of_browser_windows": 4,
+  "Unban": true,
+  "Unblock": false,
+  "account_name": "linoyeen",
+  "twitch_channels": [ "linoyeen" ]
+}
 
 I also voting on this for moderation tools for api calls for bans/unbans to the chatroom
 https://twitch.uservoice.com/forums/310213-developers/suggestions/43986132-extend-api-to-be-able-to-ban-unban-up-to-100-id-s
