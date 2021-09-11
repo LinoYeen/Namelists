@@ -2,7 +2,7 @@ If anyone get's on false-positives.txt it could be because they have gotten put 
 Some usernames are grabbed by HackBolts false positives ( I will be looking for appeals )
 If you need to appeal yourself please use the google form makes it 1000% easier for me.
 
-Namelist has names of bots ( normally accounts made within a short period of time with similar names, comprimsed accounts,
+Namelist has names of bots ( normally accounts made within a short period of time with similar names, comprised accounts,
 malicious users and or follow bots. ) All accounts submitted will be added in after review.
 
 All Namelists/false-positives are [0-9 A-Z] format
@@ -31,6 +31,14 @@ My settings for this tool ^
   "twitch_channels": [ "linoyeen" ]
 }
 
+Only change Block/unblock to true if you've been follow botted.
+This should remove them after me adding them to the list if you submitted them
+
+YouTube Video of how to setup FYI I don't do YouTube so if I messed up it is probably since I had
+a lot to do in a short amount of time since how many have asked me to make a youtube video about
+setting up the tool. I edited and recorded after being awake for over 25 hours. ( that's my fault )
+Tutorial to set it up is here : https://youtu.be/Sd8mWQzEW5E
+
 I also voting on this for moderation tools for api calls for bans/unbans to the chatroom
 https://twitch.uservoice.com/forums/310213-developers/suggestions/43986132-extend-api-to-be-able-to-ban-unban-up-to-100-id-s
 
@@ -41,3 +49,4 @@ Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
 
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
 PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
+
