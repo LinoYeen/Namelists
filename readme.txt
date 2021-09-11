@@ -12,6 +12,7 @@ Accounts that are banned from Twitch completely will be removed from the list so
 All false-positives are removed from namelist.txt
 All false-positives found are moved onto this list
 
+Automatic banning/blocking found here : https://www.twitch.tv/sery_bot
 
 Need a faster way to do all the bans and unbans? I recommend my friends tool
 https://github.com/pixelsuchter/bantool-2
@@ -49,4 +50,5 @@ Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
 
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
 PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
+
 
