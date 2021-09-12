@@ -51,4 +51,6 @@ Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
 PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
 
-
+Completely volentary ( Only adding since I was asked to put this here )
+This isn't required at all but here is this since I do take a time out of my day to update these lists often.
+https://ko-fi.com/linoyeen
