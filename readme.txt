@@ -12,6 +12,9 @@ Accounts that are banned from Twitch completely will be removed from the list so
 All false-positives are removed from namelist.txt
 All false-positives found are moved onto this list
 
+pending.txt is for accounts that are found with similarities
+such as Name and Account creation being too close to eachother ect.
+
 Automatic banning/blocking found here : https://www.twitch.tv/sery_bot
 
 Need a faster way to do all the bans and unbans? I recommend my friends tool
