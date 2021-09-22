@@ -11,12 +11,6 @@
 7901_margarita_dieg
 7_hephae_margarita_b
 9lunar
-Fernandez90
-Fernando28_82
-LunarLeda
-LunarMothRobin
-Sharalfernandes
-Tita_Lunar
 ade_fernandez
 adriellefernanda1234
 afernandez1609
@@ -124,6 +118,7 @@ fernandeand
 fernandes14a
 fernandesbenfica
 fernandesrafa24
+fernandez90
 fernandez_verito
 fernandezfran20
 fernandezmarcelo2345
@@ -149,6 +144,7 @@ fernando221801
 fernando24788
 fernando2702cep
 fernando2805akd
+fernando28_82
 fernando309d
 fernando53100
 fernando531986
@@ -298,7 +294,9 @@ lunariaqt
 lunaris111
 lunaris7328
 lunarissussy
+lunarleda
 lunarlegendarylegenduwu
+lunarmothrobin
 lunarmybts
 lunarnotfoun_d
 lunarosasantos
@@ -357,6 +355,7 @@ robin_the_lunar_moth
 rominafernandez27
 santiagoavilafernandez
 sarafernandezzz
+sharalfernandes
 sollunar7
 solunaryy
 strelalunar
@@ -368,6 +367,7 @@ thefernando1245444444
 thelunarfields
 threelunaress
 tihonova_margarita_12_id
+tita_lunar
 tomascfernandess
 totally_lunar
 totofernandez19_
@@ -382,7 +382,7 @@ volupta_margarita_21
 w_fernanda_w
 wfernandes95
 wuilmerfernandezmego
-x_LUNAR_
+x_lunar_
 xx_lunarsted_xx
 xxlunar_moonxx03
 xxlunarosesxx
