@@ -4,7 +4,7 @@ If you need to appeal yourself please use the google form makes it 1000% easier 
 
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
 PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
-( I will not be in town for 5 days during those 5 days I will not have access to my PC so editing of list will not be possible )
+( I will not be in town till Oct 1st I will not have access to my PC so editing of list will not be possible )
 
 Namelist has names of bots ( normally accounts made within a short period of time with similar names, comprised accounts,
 malicious users and or follow bots. ) All accounts submitted will be added in after review.
