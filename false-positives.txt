@@ -6,7 +6,6 @@
 adomvt
 aelite
 ajlove2638
-kajirubot
 akaidelunatix
 aldyzentertainmentstation
 alebruce
@@ -210,6 +209,7 @@ joshb66_
 junoplaysttv
 justi221
 jwalt357
+kajirubot
 kapone_dynamic_gaming
 karmaticloaf
 kazrynethegreninja
@@ -374,6 +374,7 @@ the_big_hawk
 the_true_draco
 theastralbeast9704
 thebogpod2
+thegreygatsby
 thehyozenone
 theofficialblackbartopz
 thequeen0f2kgaming
