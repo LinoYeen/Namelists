@@ -24,6 +24,11 @@ Automatic banning/blocking found here : https://www.twitch.tv/sery_bot
 Need a faster way to do all the bans and unbans? I recommend my friends tool
 https://github.com/pixelsuchter/bantool-2
 
+- HEADS UP - 
+
+be sure to delete your temp files located in C:\Users\<username>\AppData\Local\Temp or your windows login might take longer than regularly expected.
+( This is a windows issue with loading temp files before logging in to your profile not to mention it is better to clear out those files anyways since they are Temporary anyways )
+
 My settings for this tool ^
 
 {
