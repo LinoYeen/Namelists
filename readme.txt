@@ -2,8 +2,13 @@ If anyone get's on false-positives.txt it could be because they have gotten put 
 Some usernames are grabbed by HackBolts false positives ( I will be looking for appeals )
 If you need to appeal yourself please use the google form makes it 1000% easier for me.
 
+Co-Owner of the lists - Pixelsuchter
+
+Please remember to use the Appeal listings / Add in bot accounts
+
+Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
+
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
-PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
 
 Namelist has names of bots ( normally accounts made within a short period of time with similar names, comprised accounts,
 malicious users and or follow bots. ) All accounts submitted will be added in after review.
@@ -61,7 +66,3 @@ Submit names : https://forms.gle/YFp3CboEkvmJfFxa6
 
 Appeal a listing : https://forms.gle/B3ReEp7jMu9MXkri6
 PLEASE USE THIS INSTEAD OF DMing me I get the Notification on my phone then I can easily remove you once I get to my pc.
-
-Completely volentary ( Only adding since I was asked to put this here )
-This isn't required at all but here is this since I do take a time out of my day to update these lists often.
-https://ko-fi.com/linoyeen
